@@ -1,0 +1,9 @@
+content:
+- String templates
+- Lazy initialization
+- Nested and inner classes
+- Mutable list
+- Work with MutableLists
+- For loop and lists
+- Multi-dimensional list
+- Mutable Map
